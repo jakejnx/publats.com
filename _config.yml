@@ -1,24 +1,30 @@
+---
 title: Publats Marítims
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  pubs:
+    title: Pubs
+    output: true
+    permalink: "/:collection/:name"
+    label: pubs
+  uploads:
+    title: Uploads
+    output: true
 author:
   name: GitHub User
   email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
- Silly reviews of (some of) the bars, cafes and restaurants in Poblats Marítims – Valencia from people who live, drink and eat in the area. Click ‘reviews’ in the menu tab for a list, on ‘map’ for uummm a map or on the ‘categories’ drop-down menu.
+description: 'Silly reviews of (some of) the bars, cafes and restaurants in Poblats
+  Marítims – Valencia from people who live, drink and eat in the area. Click ‘reviews’
+  in the menu tab for a list, on ‘map’ for uummm a map or on the ‘categories’ drop-down
+  menu.
 
-show_excerpts: false # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+'
+show_excerpts: false
 minima:
   date_format: "%b %-d, %Y"
-
 theme: minima
-
 plugins:
 - jekyll-seo-tag
-
-collections:
-  pubs:
-    label: pubs
-    output: true
-    permalink: /:collection/:name
