@@ -28,3 +28,9 @@ minima:
 theme: minima
 plugins:
 - jekyll-seo-tag
+
+defaults:
+  - scope:
+      type: "pubs"
+    values:
+      layout: "post"
