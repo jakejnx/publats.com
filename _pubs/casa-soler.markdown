@@ -1,6 +1,8 @@
 ---
 title: Casa Soler
 date: 2020-06-22 23:37:00 Z
+tags:
+- Avenida del Puerto
 ---
 
 <img class="img-responsive" src="/uploads/20200220_130233-768x576.jpg">
