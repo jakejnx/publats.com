@@ -1,16 +1,14 @@
 ---
-title: A Pub 123
+title: Mercabañal
 tags:
 - El Grau
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img class="img-fluid" src="/uploads/mercabanal-768x432.jpg">
 
-You can find the source code for Minima at GitHub:
-[jekyll](https://github.com/jekyll) /
-[minima](https://github.com/jekyll/minima)
+I once mentioned to my imaginary uncle Kevin Costner: “If you put a shipping container in a bar they will come” and true enough they came, have come and continue to come all over this place.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll](https://github.com/jekyll) /
-[jekyll](https://github.com/jekyll/jekyll)
+Probably one of the coolest spots in the city, this roofless wonder is more giant terrace with a bar than a bar with a terrace. Thankfully the shipping containers both break up the space to the point where it feels almost cosy and house the vendors that feed my hungry (not so flat as it used to be) belly and quench my dry (same size as it’s been for ages) mouth.
+
+The prices are reasonable with a really good quality margherita pizza being sold for under €7 and bottles of beer starting at €2.50. A good place to come after the beach in the summer and on a sunny day in the cooler months.
