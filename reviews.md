@@ -11,6 +11,3 @@ layout: page
     </a>
   </h2>
 {% endfor %}
-
-
-[jekyll-organization]: https://github.com/jekyll
