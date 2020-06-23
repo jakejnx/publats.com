@@ -13,7 +13,7 @@ layout: page
 
 ## Cafes
 <ul>
-{% for Cafés in site.Cafés %}
-<li><a href="{{ Cafés.url }}"> {{ Cafés.title }}</a> - {{ Cafés.tags }} </li>
+{% for Cafes in site.Cafes %}
+<li><a href="{{ Cafes.url }}"> {{ Cafes.title }}</a> - {{ Cafes.tags }} </li>
 {% endfor %}
 </ul>
