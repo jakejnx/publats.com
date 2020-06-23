@@ -2,6 +2,9 @@
 title: Publats Marítims
 timezone: Europe/Madrid
 collections:
+  cafes:
+    title: Cafés
+    output: true
   posts:
     title: Posts
     output: true
