@@ -15,6 +15,9 @@ collections:
     output: true
     permalink: "/:collection/:name"
     label: pubs
+  restaurants:
+    title: Restaurants
+    output: true
   uploads:
     title: Uploads
     output: true
