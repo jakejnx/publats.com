@@ -1,7 +1,7 @@
 ---
 title: Mercabañal
 tags:
-- El Grau
+- Cabañal
 layout: page
 ---
 
