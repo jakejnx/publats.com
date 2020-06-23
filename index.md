@@ -3,8 +3,7 @@ title: Welcome
 layout: home
 ---
 
-<img class="img-fluid" src="/uploads/cropped-20200303_095854-scaled-1-1536x922.jpg">
-
+![cropped-20200303_095854-scaled-1-1536x922.jpg](/uploads/cropped-20200303_095854-scaled-1-1536x922.jpg)
 
 Silly reviews of (some of) the bars, cafes and restaurants in Poblats Marítims – Valencia from people who live, drink and eat in the area. 
 
