@@ -24,6 +24,11 @@ defaults:
     type: pubs
   values:
     layout: post
+- scope:
+    path: ''
+    type: cafes
+  values:
+    layout: post
 author:
   name: Luke Rice
   email: lukeychops@hotmail.com
