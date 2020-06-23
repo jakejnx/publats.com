@@ -1,11 +1,11 @@
 ---
 title: Casa Soler
-date: 2020-06-22 23:37:00 Z
+date: 2020-06-23 01:37:00 +02:00
 tags:
 - Avenida del Puerto
 ---
 
-<img class="img-fluid" src="/uploads/20200220_130233-768x576.jpg">
+![20200220_130233-768x576.jpg](/uploads/20200220_130233-768x576.jpg)
 
 There are Shitty Spanish Bars Chinese Version 2.0 and then there are a selection just below that category. Casa Soler is one of those bars (and there are many to choose from on Avenida del Puerto). These negative attributes donˋt stop me drinking there however.
 
