@@ -7,6 +7,6 @@ layout: page
 ## Pubs
 <ul>
 {% for pubs in site.pubs %}
-<li><a href="{{ pubs.url }}"> {{ pubs.title }} - {{ pubs.tags }} </a></li>
+<li><a href="{{ pubs.url }}"> {{ pubs.title }}</a> - {{ pubs.tags }} </li>
 {% endfor %}
 </ul>
