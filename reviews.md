@@ -4,7 +4,9 @@ permalink: "/reviews/"
 layout: page
 ---
 
+## Pubs
+<ul>
 {% for pubs in site.pubs %}
-  * <a href="{{ pubs.url }}"> {{ pubs.title }} - {{ pubs.tags }}    </a>
-
+<li><a href="{{ pubs.url }}"> {{ pubs.title }} - {{ pubs.tags }} </a></li>
 {% endfor %}
+</ul>
