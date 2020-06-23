@@ -5,7 +5,7 @@ tags:
 layout: page
 ---
 
-<img class="img-fluid" src="/uploads/mercabanal-768x432.jpg">
+![mercabanal-768x432.jpg](/uploads/mercabanal-768x432.jpg)
 
 I once mentioned to my imaginary uncle Kev: “If you put a shipping container in a bar they will come” and true enough they came, have come and continue to come all over this place.
 
