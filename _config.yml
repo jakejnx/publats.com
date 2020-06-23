@@ -3,7 +3,7 @@ title: Publats Marítims
 timezone: Europe/Madrid
 collections:
   cafes:
-    title: Cafés
+    title: Cafes
     output: true
     permalink: "/:collection/:name"
     label: cafes
