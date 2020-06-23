@@ -7,7 +7,7 @@ layout: page
 
 <img class="img-fluid" src="/uploads/mercabanal-768x432.jpg">
 
-I once mentioned to my imaginary uncle Kevin Costner: “If you put a shipping container in a bar they will come” and true enough they came, have come and continue to come all over this place.
+I once mentioned to my imaginary uncle Kev: “If you put a shipping container in a bar they will come” and true enough they came, have come and continue to come all over this place.
 
 Probably one of the coolest spots in the city, this roofless wonder is more giant terrace with a bar than a bar with a terrace. Thankfully the shipping containers both break up the space to the point where it feels almost cosy and house the vendors that feed my hungry (not so flat as it used to be) belly and quench my dry (same size as it’s been for ages) mouth.
 
