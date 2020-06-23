@@ -1,6 +1,8 @@
 ---
 title: Tallat Coffee
 date: 2020-06-23 10:40:00 +02:00
+tags:
+- Cabañal
 ---
 
 <!-- wp:group -->
