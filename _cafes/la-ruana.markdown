@@ -1,7 +1,7 @@
 ---
 title: La Ruana
 date: 2020-06-24 16:37:00 +02:00
-tags:
+categories:
 - Grau
 ---
 
