@@ -2,6 +2,11 @@
 title: Publats Marítims
 timezone: Europe/Madrid
 collections:
+  pubs:
+    title: Bars
+    output: true
+    permalink: "/:collection/:name"
+    label: bars
   cafes:
     title: Cafes
     output: true
@@ -10,11 +15,6 @@ collections:
   posts:
     title: Posts
     output: true
-  pubs:
-    title: Bars
-    output: true
-    permalink: "/:collection/:name"
-    label: bars
   restaurants:
     title: Restaurants
     output: true
