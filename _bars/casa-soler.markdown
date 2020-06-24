@@ -2,7 +2,7 @@
 title: Casa Soler
 date: 2020-06-23 01:37:00 +02:00
 categories:
-- Avenida del Puerto
+- Grau
 tags:
 - Avenida del Puerto
 ---
