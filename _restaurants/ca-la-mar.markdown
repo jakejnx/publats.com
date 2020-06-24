@@ -1,7 +1,7 @@
 ---
 title: Ca La Mar
 date: 2020-06-24 03:23:00 +02:00
-tags:
+categories:
 - Cabañal
 ---
 
