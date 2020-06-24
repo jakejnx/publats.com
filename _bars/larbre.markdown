@@ -1,6 +1,8 @@
 ---
 title: L’Arbre
 date: 2020-06-24 02:40:00 +02:00
+categories:
+- Cabanal
 tags:
 - Cabañal
 ---
