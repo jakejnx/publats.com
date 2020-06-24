@@ -2,7 +2,7 @@
 title: Publats Marítims
 timezone: Europe/Madrid
 collections:
-  pubs:
+  bars:
     title: Bars
     output: true
     permalink: "/:collection/:name"
