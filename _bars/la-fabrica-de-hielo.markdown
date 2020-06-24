@@ -1,6 +1,8 @@
 ---
 title: La Fabrica de Hielo
 date: 2020-06-24 02:53:00 +02:00
+categories:
+- Cabanal
 tags:
 - Cabañal
 ---
