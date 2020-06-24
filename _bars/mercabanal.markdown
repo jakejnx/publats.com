@@ -1,5 +1,7 @@
 ---
 title: Mercabañal
+categories:
+- Cabanal
 tags:
 - Cabañal
 layout: page
