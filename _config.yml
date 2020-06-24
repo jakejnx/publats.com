@@ -26,7 +26,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: pubs
+    type: bars
   values:
     layout: post
 - scope:
