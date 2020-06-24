@@ -1,7 +1,7 @@
 ---
 title: Bodega Anyora
 date: 2020-06-23 21:54:00 +02:00
-tags:
+categories:
 - Cabañal
 ---
 
