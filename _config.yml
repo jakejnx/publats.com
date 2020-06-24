@@ -18,6 +18,8 @@ collections:
   restaurants:
     title: Restaurants
     output: true
+        permalink: "/:collection/:name"
+    label: restaurants
   uploads:
     title: Uploads
     output: true
