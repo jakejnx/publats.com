@@ -9,7 +9,7 @@ tags:
 
 ![20200220_130233-768x576.jpg](/uploads/20200220_130233-768x576.jpg)
 
-There are Shitty Spanish Bars Chinese Version 2.0 and then there are a selection just below that category. Casa Soler is one of those bars (and there are many to choose from on Avenida del Puerto). These negative attributes donˋt stop me drinking there however.
+There are [Shitty Spanish Bars Chinese Version 2.0](publats.com/shitty-spanish-bar-chinese-version-2-dot-0.html) and then there are a selection just below that category. Casa Soler is one of those bars (and there are many to choose from on Avenida del Puerto). These negative attributes donˋt stop me drinking there however.
 
 Despite the dubious levels of cleanliness inside and the relatively rude staff (to be expected from a SSBCV2.0) I have had a fair few beers on this terrace.
 
