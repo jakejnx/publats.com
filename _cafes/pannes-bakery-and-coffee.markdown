@@ -1,8 +1,8 @@
 ---
 title: Pannes Bakery & Coffee
 date: 2020-06-24 02:49:00 +02:00
-tags:
-- Cabañal
+categories:
+- Cabanal
 ---
 
 ![20191218_104451-768x432.jpg](/uploads/20191218_104451-768x432.jpg)
