@@ -1,6 +1,8 @@
 ---
 title: La Batisfera
 date: 2020-06-24 02:57:00 +02:00
+categories:
+- Cabanal
 tags:
 - Cabañal
 ---
