@@ -1,7 +1,7 @@
 ---
 title: Calabuig
 date: 2020-06-24 03:17:00 +02:00
-tags:
+categories:
 - El Grau
 ---
 
