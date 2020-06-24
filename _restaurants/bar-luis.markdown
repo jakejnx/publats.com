@@ -1,7 +1,7 @@
 ---
 title: Bar Luis
 date: 2020-06-24 02:44:00 +02:00
-tags:
+categories:
 - El-Grau
 ---
 
