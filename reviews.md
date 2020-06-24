@@ -22,6 +22,6 @@ layout: page
 ## Restaurants
 <ul>
 {% for restaurants in site.restaurants %}
-<li><a href="{{ restaurants.url }}"> {{ restaurants.title }}</a> - {{ restaurants.tags }} </li>
+<li><a href="{{ restaurants.url }}"> {{ restaurants.title }}</a> - {{ restaurants.categories }} </li>
 {% endfor %}
 </ul>
