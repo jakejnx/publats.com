@@ -34,7 +34,7 @@ defaults:
     type: cafes
   values:
     layout: post
-    - scope:
+- scope:
     path: ''
     type: restaurants
   values:
