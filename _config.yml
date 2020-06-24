@@ -10,7 +10,7 @@ collections:
   cafes:
     title: Cafes
     output: true
-    permalink: "/:collection/:name"
+    permalink: "/:categories/:collection/:name"
     label: cafes
   posts:
     title: Posts
