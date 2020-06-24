@@ -1,8 +1,8 @@
 ---
 title: La Paca
 date: 2020-06-24 03:21:00 +02:00
-tags:
-- Cabañal
+categories:
+- Cabanal
 ---
 
 ![la-paca-768x512.jpg](/uploads/la-paca-768x512.jpg)
