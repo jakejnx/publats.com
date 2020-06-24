@@ -1,7 +1,7 @@
 ---
 title: Dolce Milano
 date: 2020-06-24 16:28:00 +02:00
-tags:
+categories:
 - Grau
 ---
 
