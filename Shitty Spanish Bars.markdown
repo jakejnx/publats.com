@@ -13,4 +13,4 @@ Think grim toilets.
 
 Think run by an (often) grumpy guy with a big belly and a moustache.
 
-Along with banks and pharmacies these bars are everywhere in Valencia (there are less in the city centre). If it’s not a Shitty Spanish Bar Chinese Version 2.0 then it will likely be a Shitty Spanish Bar.
+Along with banks and pharmacies these bars are everywhere in Valencia (there are less in the city centre). If it’s not a [Shitty Spanish Bar Chinese Version 2.0](publats.com/shitty-spanish-bar-chinese-version-2-dot-0.html) then it will likely be a Shitty Spanish Bar.
