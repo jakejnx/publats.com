@@ -7,14 +7,14 @@ layout: page
 ## Bars
 <ul>
 {% for bars in site.bars %}
-<li><a href="{{ bars.url }}"> {{ bars.title }}</a> - {{ bars.tags }} </li>
+<li><a href="{{ bars.url }}"> {{ bars.title }}</a> - {{ bars.categories }} </li>
 {% endfor %}
 </ul>
 
 ## Cafes
 <ul>
 {% for cafes in site.cafes %}
-<li><a href="{{ cafes.url }}"> {{ cafes.title }}</a> - {{ cafes.tags }} </li>
+<li><a href="{{ cafes.url }}"> {{ cafes.title }}</a> - {{ cafes.categories }} </li>
 {% endfor %}
 </ul>
 
