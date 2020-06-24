@@ -11,10 +11,10 @@ collections:
     title: Posts
     output: true
   pubs:
-    title: Pubs
+    title: Bars
     output: true
     permalink: "/:collection/:name"
-    label: pubs
+    label: bars
   restaurants:
     title: Restaurants
     output: true
