@@ -5,7 +5,7 @@ collections:
   bars:
     title: Bars
     output: true
-    permalink: "/:collection/:name"
+    permalink: "/:categories/:collection/:name"
     label: bars
   cafes:
     title: Cafes
