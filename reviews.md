@@ -4,10 +4,10 @@ permalink: "/reviews/"
 layout: page
 ---
 
-## Pubs
+## Bars
 <ul>
-{% for pubs in site.pubs %}
-<li><a href="{{ pubs.url }}"> {{ pubs.title }}</a> - {{ pubs.tags }} </li>
+{% for bars in site.bars %}
+<li><a href="{{ bars.url }}"> {{ bars.title }}</a> - {{ bars.tags }} </li>
 {% endfor %}
 </ul>
 
@@ -15,5 +15,13 @@ layout: page
 <ul>
 {% for cafes in site.cafes %}
 <li><a href="{{ cafes.url }}"> {{ cafes.title }}</a> - {{ cafes.tags }} </li>
+{% endfor %}
+</ul>
+
+
+## Restaurants
+<ul>
+{% for restaurants in site.restaurants %}
+<li><a href="{{ restaurants.url }}"> {{ restaurants.title }}</a> - {{ restaurants.tags }} </li>
 {% endfor %}
 </ul>
