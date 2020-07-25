@@ -52,6 +52,7 @@ show_excerpts: false
 minima:
   date_format: "%b %-d, %Y"
 theme: minima
-include: [_header]
+include:
+- _header
 plugins:
 - jekyll-seo-tag
