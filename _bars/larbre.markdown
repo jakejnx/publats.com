@@ -2,12 +2,14 @@
 title: L’Arbre
 date: 2020-06-24 02:40:00 +02:00
 categories:
-- Cabanal
+- Cabañal
 tags:
 - Cabañal
 ---
 
 ![1.jpg](/uploads/1.jpg)
+
+**This bar has now closed down but has reopened with a new name and management. New review to come soon**
 
 Sitting in the shadows of the popular and more established La Paca bar L’Arbre deserves more love and attention.
 
