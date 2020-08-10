@@ -1,6 +1,8 @@
 ---
 title: Bodega J. Flor
 date: 2020-08-10 14:24:00 +02:00
+categories:
+- Cabañal
 ---
 
 ![20200711_121404.jpg](/uploads/20200711_121404.jpg)
