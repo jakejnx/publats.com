@@ -5,10 +5,10 @@ published: false
 layout: page
 ---
 
-## Bars
 
+## Bars
 <ul>
-{% site.bars | where:"categories","Grau" %}
+{% for Grau in site.categories %}
 <li><a href="{{ bars.url }}"> {{ bars.title }}</a> </li>
 {% endfor %}
 </ul>
