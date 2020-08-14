@@ -7,7 +7,7 @@ layout: page
 
 ## Bars
 <ul>
-{% for Grau in site.categories %}
+{% for grau in site.tags %}
 <li><a href="{{ bars.url }}"> {{ bars.title }}</a> </li>
 {% endfor %}
 </ul>
