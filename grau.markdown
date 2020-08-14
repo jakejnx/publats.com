@@ -8,7 +8,7 @@ layout: page
 ## Bars
 
 <ul>
-{% for bars in site.bars | where:"categories","Grau" %}
+{% site.bars | where:"categories","Grau" %}
 <li><a href="{{ bars.url }}"> {{ bars.title }}</a> </li>
 {% endfor %}
 </ul>
