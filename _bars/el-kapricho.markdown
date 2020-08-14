@@ -3,6 +3,8 @@ title: El Kapricho
 date: 2020-06-25 17:23:00 +02:00
 categories:
 - Grau
+tags:
+- grau
 ---
 
 ![kapricho.jpg](/uploads/kapricho.jpg)
