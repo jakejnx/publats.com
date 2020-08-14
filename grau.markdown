@@ -4,7 +4,7 @@ date: 2020-07-11 14:43:00 +02:00
 layout: page
 ---
 
-## Bars2h
+## Bars2i
   <ul>
 <ul>
 {% if bars.category == 'Grau' %}
