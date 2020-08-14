@@ -4,9 +4,10 @@ date: 2020-07-11 14:43:00 +02:00
 layout: page
 ---
 
-## Bars2g
+## Bars2h
   <ul>
-{% for bars in bars.categories.Grau %}
+<ul>
+{% if bar.category == 'Grau' %}
 <li><a href="{{ bars.url }}"> {{ bars.title }}</a> - {{ bars.categories }} </li>
-{% endfor %}
+{% endif %}
 </ul>
