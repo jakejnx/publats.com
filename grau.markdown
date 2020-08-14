@@ -5,8 +5,11 @@ layout: page
 ---
 
 ## Bars2c
-<ul>
-{% for bars in bars.categories[grau] %}
-<li><a href="{{ bars.url }}"> {{ bars.title }}</a> </li>
+{% for category in site.categories %}
+  <h2>{{ category[0] }}</h2>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 {% endfor %}
-</ul>
