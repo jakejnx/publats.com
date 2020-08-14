@@ -5,6 +5,6 @@ layout: page
 ---
 
 ## Bars2a
-{% for bars in site.categories["grau"] %}
+{% for bars in site.categories[grau] %}
         {% include post_preview.html %}
 {% endfor %}
