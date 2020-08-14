@@ -3,6 +3,8 @@ title: Urban Youth Hostel
 date: 2020-06-24 17:09:00 +02:00
 categories:
 - Grau
+tags:
+- grau
 ---
 
 ![UYH.jpg](/uploads/UYH.jpg)
