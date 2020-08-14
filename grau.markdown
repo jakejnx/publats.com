@@ -7,7 +7,7 @@ layout: page
 ## Bars2h
   <ul>
 <ul>
-{% if bar.category == 'Grau' %}
+{% if bars.category == 'Grau' %}
 <li><a href="{{ bars.url }}"> {{ bars.title }}</a> - {{ bars.categories }} </li>
 {% endif %}
 </ul>
