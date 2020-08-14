@@ -5,6 +5,8 @@ layout: page
 ---
 
 ## Bars2b
+<ul>
 {% for bars in bars.categories[grau] %}
-        {% include post_preview.html %}
+<li><a href="{{ bars.url }}"> {{ bars.title }}</a> </li>
 {% endfor %}
+</ul>
