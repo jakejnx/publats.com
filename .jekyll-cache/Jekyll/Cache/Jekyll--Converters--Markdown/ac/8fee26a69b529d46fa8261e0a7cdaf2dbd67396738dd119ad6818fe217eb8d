@@ -1,4 +1,4 @@
-I"Ç<div class="w3-container">
+I"Ë<div class="w3-container">
   <form action="/contact/sent" name="contact" method="POST" data-netlify="true">
 <p>
     <label for="fname">Name</label><br />
@@ -10,7 +10,7 @@
     <label for="message">Message</label><br />
     <textarea id="subject" name="message" placeholder="Your message.." style="height:200px" class="w3-input w3-border"></textarea></p>
 <p>
-    <button type="submit" class="w3-button w3-green w3-large">Send</button>
+    <button type="submit" class="w3-button w3-dark-grey w3-large">Send</button>
 </p>
   </form>
 </div>

@@ -16,7 +16,7 @@ layout: page
     <label for="message">Message</label><br />
     <textarea id="subject" name="message" placeholder="Your message.." style="height:200px"  class="w3-input w3-border"></textarea></p>
 <p>
-    <button type="submit" class="w3-button w3-green w3-large">Send</button>
+    <button type="submit" class="w3-button w3-dark-grey w3-large">Send</button>
 </p>
   </form>
 </div> 
