@@ -1,9 +1,11 @@
 ---
-title: Welcome
-layout: home
+title: Welcome to Publats Maratims
+layout: page
+categories:
+- Home
 ---
 
-![cropped-20200303_095854-scaled-1-1536x922.jpg](/uploads/cropped-20200303_095854-scaled-1-1536x922.jpg)
+<img src="/uploads/cropped-20200303_095854-scaled-1-1536x922.jpg" height="400px">
 
 Silly reviews of (some of) the bars, cafes and restaurants in Poblats Marítims – Valencia from people who live, drink and eat in the area. 
 

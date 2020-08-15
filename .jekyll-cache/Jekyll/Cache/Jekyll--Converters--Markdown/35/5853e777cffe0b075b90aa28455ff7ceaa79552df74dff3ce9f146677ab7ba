@@ -1,0 +1,57 @@
+I"õ<p>the page tag is Cabanal</p>
+
+<div class="w3-container w3-third">
+  
+<h2>Bars</h2>
+
+<ul>
+
+
+<li><a href="/grau/bars/casa-soler"> Casa Soler</a></li>
+
+<li><a href="/grau/bars/calabuig"> Calabuig</a></li>
+
+<li><a href="/grau/bars/bar-luis"> Bar Luis</a></li>
+
+<li><a href="/grau/bars/urban-youth-hostel"> Urban Youth Hostel</a></li>
+
+<li><a href="/grau/bars/el-kapricho"> El Kapricho</a></li>
+
+<li><a href="/grau/bars/la-peseta"> La Peseta</a></li>
+
+<li><a href="/grau/bars/bar-pele"> Bar Pele</a></li>
+
+<li><a href="/grau/bars/el-clavo"> El Clavo</a></li>
+
+</ul>
+
+  </div>
+<div class="w3-container w3-third">
+  
+  <h2>Cafes</h2>
+
+<ul>
+
+
+<li><a href="/grau/cafes/dolce-milano"> Dolce Milano</a></li>
+
+<li><a href="/grau/cafes/la-ruana"> La Ruana</a></li>
+
+</ul>
+  
+  </div>
+<div class="w3-container w3-third">
+  
+  <h2>Restaurants</h2>
+
+<ul>
+
+
+<li><a href="/grau/restaurants/la-fabrica"> La Fabrica</a></li>
+
+<li><a href="/grau/restaurants/bar-restaurant-euro-5"> Bar Restaurant Euro 5</a></li>
+
+</ul>
+  
+  </div>
+:ET

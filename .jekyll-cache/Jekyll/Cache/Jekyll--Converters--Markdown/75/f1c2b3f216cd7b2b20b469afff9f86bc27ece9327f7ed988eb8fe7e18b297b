@@ -1,0 +1,37 @@
+I"Â<p>the page tag is cabaÃ±al</p>
+
+<div class="w3-container w3-third">
+  
+<h2>Bars</h2>
+
+<ul>
+
+
+</ul>
+
+  </div>
+<div class="w3-container w3-third">
+  
+  <h2>Cafes</h2>
+
+<ul>
+
+
+<li><a href="/caba%C3%B1al/cafes/tallat-coffee"> Tallat Coffee</a></li>
+
+<li><a href="/caba%C3%B1al/cafes/pannes-bakery-and-coffee"> Pannes Bakery &amp; Coffee</a></li>
+
+</ul>
+  
+  </div>
+<div class="w3-container w3-third">
+  
+  <h2>Restaurants</h2>
+
+<ul>
+
+
+</ul>
+  
+  </div>
+:ET
