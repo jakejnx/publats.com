@@ -26,15 +26,19 @@
 
 <style>
   .page-content {
-    min-height: calc(100vh - 315px);
-    margin-bottom: 50px;
+    min-height: calc(100vh - 353px);
+  }
+
+  img {
+  max-width: 100%;
+  height: auto;
   }
 </style>
 
 </head>
 <body><div class="w3-panel">
   <a href="/">
-  <img src="/assets/publats.svg" height="60px"></a>
+  <img src="/assets/publats.svg" style="height: 60px !important;"></a>
   </div>
 
 <div class="w3-bar w3-light-grey w3-padding">
@@ -52,19 +56,19 @@
   </header>
 
   <div class="post-content">
-    <div class="container">
+    <div class="w3-container">
   <form action="/contact/sent" name="contact" method="POST" data-netlify="true">
 <p>
     <label for="fname">Name</label><br />
-    <input type="text" id="name" name="name" placeholder="Your name.." /></p>
+    <input type="text" id="name" name="name" placeholder="Your name.." class="w3-input w3-border" /></p>
 <p>
     <label for="lname">Email</label><br />
-    <input type="email" id="email" name="email" placeholder="Your email address.." /></p>
+    <input type="email" id="email" name="email" placeholder="Your email address.." class="w3-input w3-border" /></p>
 <p>
     <label for="message">Message</label><br />
-    <textarea id="subject" name="message" placeholder="Your message.." style="height:200px"></textarea></p>
+    <textarea id="subject" name="message" placeholder="Your message.." style="height:200px" class="w3-input w3-border"></textarea></p>
 <p>
-    <button type="submit">Send</button>
+    <button type="submit" class="w3-button w3-green w3-large">Send</button>
 </p>
   </form>
 </div>
@@ -82,8 +86,8 @@
  
     </main></div>
 
-<div class="w3-container w3-light-grey w3-padding-24 w3-center">
-    <p>Home &nbsp;| &nbsp;<a href="/about">About Publats.com</a>&nbsp; |  &nbsp;<a href="/contact">Contact Us</a></p>
+<div class="w3-container w3-yellow w3-padding-24 w3-center">
+    <p><a href="/">Home</a> &nbsp;| &nbsp;<a href="/about">About</a>&nbsp; |  &nbsp;<a href="/contact">Contact Us</a></p>
     <br><p>
         Copyright Luke Rice 2019 - 2020. All Rights Reserved. <br><a href="https://jakejnx.com">Site Design JakeJnx</a>.
     </p>

@@ -1,0 +1,17 @@
+I"<div class="w3-container">
+  <form action="/contact/sent" name="contact" method="POST" data-netlify="true">
+<p>
+    <label for="fname">Name</label><br />
+    <input type="text" id="name" name="name" placeholder="Your name.." class="w3-input" /></p>
+<p>
+    <label for="lname">Email</label><br />
+    <input type="email" id="email" name="email" placeholder="Your email address.." class="w3-input" /></p>
+<p>
+    <label for="message">Message</label><br />
+    <textarea id="subject" name="message" placeholder="Your message.." style="height:200px" class="w3-input"></textarea></p>
+<p>
+    <button type="submit" class="w3-btn w3-green">Send</button>
+</p>
+  </form>
+</div>
+:ET
