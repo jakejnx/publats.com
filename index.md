@@ -1,5 +1,5 @@
 ---
-title: Welcome to Publats Maratims
+title: Welcome to Publats Marítims
 layout: page
 categories:
 - Home
