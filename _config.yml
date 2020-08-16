@@ -55,3 +55,4 @@ include:
 - _headers
 plugins:
 - jekyll-seo-tag
+- jekyll-sitemap
