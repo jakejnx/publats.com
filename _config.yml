@@ -53,6 +53,7 @@ minima:
 theme: minima
 include:
 - _headers
+url: "https://publats.com"
 plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
