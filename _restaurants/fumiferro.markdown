@@ -22,3 +22,5 @@ Time issues aside (could have been my fault), the waiter was cool and found us a
 I had originally booked a table outside in the large (potentially recently refurbished) terrace however due to the aforementioned confusion we discovered really smart, typically high ceilinged cabanal noshery. The food was meaty, as to be expected from a grill but they do have vegetarian options. Beer was a bit uninspired... some local beers would be an easy improvement. 
 
 I highly recommend this place... but only if you have the (right) time.
+
+![Photo from The Return of Carrot Man🥕.jpg](/uploads/Photo%20from%20The%20Return%20of%20Carrot%20Man%F0%9F%A5%95.jpg)
